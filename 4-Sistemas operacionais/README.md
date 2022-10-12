@@ -26,7 +26,7 @@ Os dois grupos mais conhecidos são: Unix e Windows.
 
     Kernel - É o núcleo do sistema operacional, responsável por gerenciar os recursos do computador.
 
-<img src="../imageNs/kernel.png" width="400" height="400">
+<img src="../imagens/kernel.png" width="400" height="400">
 
     Gerenciamento de processo - Um processo é um programa em execução, ele agenda as tarefas e gerencia a memória dividindo em partes para cada processo para uma melhor performance.
         Multitasking - É a capacidade de executar vários processos ao mesmo tempo.
